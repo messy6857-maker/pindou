@@ -1,0 +1,8 @@
+# bead3d（立体插接拼豆）。平面图纸 bead-pattern 只需要其中的 numpy 与 pillow，
+# 见 bead-pattern/requirements.txt。
+numpy
+scipy
+pillow
+trimesh
+gradio_client
+networkx

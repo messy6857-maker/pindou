@@ -1,0 +1,7 @@
+# 平面拼豆图纸（scripts/generate.py 及同目录辅助脚本）
+numpy
+Pillow
+
+# 仅 --remove-bg ai 需要（首次运行会下载约 170MB 模型）:
+# rembg
+# onnxruntime

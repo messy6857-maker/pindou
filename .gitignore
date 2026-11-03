@@ -1,0 +1,21 @@
+# virtualenvs
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# generated kit / pattern output (tracked examples stay)
+output/
+out/
+out3d/
+
+# OS / editor
+.DS_Store
+*.swp
+*~
